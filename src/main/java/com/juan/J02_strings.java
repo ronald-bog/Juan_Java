@@ -68,7 +68,10 @@ public class J02_strings {
             """.formatted(framework, versionF);
 
     // SCANNER entrada de datos desde consola
+    // ya hicimos un commit
+    static void testScanner(){
 
+    }
 }
 
 
