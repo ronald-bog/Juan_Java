@@ -72,6 +72,8 @@ public class J02_strings {
     static void testScanner(){
         // Estamos probando git clone
 
+        // Cambio hecho por Juan Manuel
+
     }
 }
 
