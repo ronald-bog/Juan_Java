@@ -70,6 +70,7 @@ public class J02_strings {
     // SCANNER entrada de datos desde consola
     // ya hicimos un commit
     static void testScanner(){
+        // Estamos probando git clone
 
     }
 }

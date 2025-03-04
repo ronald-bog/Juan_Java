@@ -28,6 +28,7 @@ public class Main {
         sc.close();
 
         System.out.println(J02_strings.messageBlock);
+
     }
 }
 
